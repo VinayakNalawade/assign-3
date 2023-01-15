@@ -1,0 +1,26 @@
+.categoryItem {
+  list-style-type: none;
+  padding-bottom: 5px;
+  margin: 4px;
+}
+
+.selectedcategoryItem {
+  list-style-type: none;
+  border-bottom: 2px solid #fec653;
+  margin: 4px;
+  padding-bottom: 3px;
+}
+
+.tab {
+  color: #ffffff;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+.selectedtab {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: #fec653;
+}

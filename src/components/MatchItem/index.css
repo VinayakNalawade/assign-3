@@ -1,0 +1,20 @@
+.matchItem {
+  list-style-type: none;
+  width: 22%;
+}
+
+.matchItemButton {
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
+
+.matchthumbnail {
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .matchItem {
+    width: 19%;
+  }
+}
